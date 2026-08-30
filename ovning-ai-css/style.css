@@ -1,0 +1,15 @@
+section {
+  margin: 40px;
+  gap: 2rem;
+}
+
+.card-container {
+  margin: 40px;
+}
+
+.card {
+  color: red;
+  padding: 1rem;
+  margin: 2rem;
+  border: 1px solid #000;
+}
